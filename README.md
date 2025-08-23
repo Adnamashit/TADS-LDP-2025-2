@@ -1,2 +1,2 @@
-# TADS-LDP-2025-2
+# TADS-logica-2025-2
 Listas 
