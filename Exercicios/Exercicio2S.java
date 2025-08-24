@@ -5,7 +5,7 @@ atualizado com os 20%.*/
 
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class Exercicio2S {
 
     public static void main(String [] agrs) {
 
