@@ -12,9 +12,9 @@ public class Exercicio1 {
         // Criando o método main
 
         Scanner scanner = new Scanner(System.in);
-         // Criando o scanner
-
+         
         System.out.println("Me fale um numero inteiro: ");
+
         // Pedindo um número inteiro
         
         int number = scanner.nextInt();
@@ -27,11 +27,8 @@ public class Exercicio1 {
         // Imprimindo o antecessor do número inteiro
 
     }
-    // Jeito certo de fazer o exercício
-    public static int antecessor(int number) {
-        // Criando o método antecessor
-
+// Jeito certo de fazer o exercício
+        public static int antecessor(int number) {
         return number - 1;
-        // Retornando o antecessor do número inteiro
-    }
+        }
 }
